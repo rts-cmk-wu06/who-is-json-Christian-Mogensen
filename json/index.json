@@ -1,0 +1,34 @@
+{
+  "elever": [
+    {
+      "elev1": {
+        "fornavn": "Super",
+        "efternavn": "Man",
+        "alder": 40,
+        "hårfarve": "Sort",
+        "skostørrelse": 48
+      },
+      "elev2": {
+        "fornavn": "Cat",
+        "efternavn": "Woman",
+        "alder": 36,
+        "hårfarve": "Sort",
+        "skostørrelse": 35
+      },
+      "elev3": {
+        "fornavn": "Wonder",
+        "efternavn": "Woman",
+        "alder": 102,
+        "hårfarve": "Sort",
+        "skostørrelse": 37
+      },
+      "elev4": {
+        "fornavn": "Bat",
+        "efternavn": "Man",
+        "alder": 45,
+        "hårfarve": "Sort",
+        "skostørrelse": 52
+      }
+    }
+  ]
+}
